@@ -1,0 +1,15 @@
+﻿#include @"Birdidentify\Birdidentify.ph"
+
+#requires @"Birdidentify\Birdidentify.frm"
+% privately used packages
+#include @"pfc\string\string.ph"
+#include @"pfc\stream\stream.ph"
+#include @"pfc\vpi\vpi.ph"
+#include @"pfc\resourceIdentifiers.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"Birdidentify\Birdidentify.pro"

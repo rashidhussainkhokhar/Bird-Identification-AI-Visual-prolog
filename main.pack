@@ -1,0 +1,20 @@
+﻿#include @"main.ph"
+
+#requires @"Mydia.dlg"
+% privately used packages
+#include @"pfc\vpi\vpi.ph"
+#include @"pfc\resourceIdentifiers.ph"
+#include @"pfc\stream\stream.ph"
+#include @"pfc\application\Exe\exe.ph"
+#include @"pfc\core.ph"
+#include @"pfc\gui\gui.ph"
+#include @"TaskWindow\TaskWindow.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"Mydia.pro"
+#include @"main.pro"
+
